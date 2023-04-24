@@ -1,0 +1,15 @@
+/Users/shovket/Projects/EcassaProject/EcassaProject/bin/Debug/net6.0/EcassaProject
+/Users/shovket/Projects/EcassaProject/EcassaProject/bin/Debug/net6.0/EcassaProject.deps.json
+/Users/shovket/Projects/EcassaProject/EcassaProject/bin/Debug/net6.0/EcassaProject.runtimeconfig.json
+/Users/shovket/Projects/EcassaProject/EcassaProject/bin/Debug/net6.0/EcassaProject.dll
+/Users/shovket/Projects/EcassaProject/EcassaProject/bin/Debug/net6.0/EcassaProject.pdb
+/Users/shovket/Projects/EcassaProject/EcassaProject/obj/Debug/net6.0/EcassaProject.csproj.AssemblyReference.cache
+/Users/shovket/Projects/EcassaProject/EcassaProject/obj/Debug/net6.0/EcassaProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shovket/Projects/EcassaProject/EcassaProject/obj/Debug/net6.0/EcassaProject.AssemblyInfoInputs.cache
+/Users/shovket/Projects/EcassaProject/EcassaProject/obj/Debug/net6.0/EcassaProject.AssemblyInfo.cs
+/Users/shovket/Projects/EcassaProject/EcassaProject/obj/Debug/net6.0/EcassaProject.csproj.CoreCompileInputs.cache
+/Users/shovket/Projects/EcassaProject/EcassaProject/obj/Debug/net6.0/EcassaProject.dll
+/Users/shovket/Projects/EcassaProject/EcassaProject/obj/Debug/net6.0/refint/EcassaProject.dll
+/Users/shovket/Projects/EcassaProject/EcassaProject/obj/Debug/net6.0/EcassaProject.pdb
+/Users/shovket/Projects/EcassaProject/EcassaProject/obj/Debug/net6.0/EcassaProject.genruntimeconfig.cache
+/Users/shovket/Projects/EcassaProject/EcassaProject/obj/Debug/net6.0/ref/EcassaProject.dll
